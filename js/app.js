@@ -1,5 +1,5 @@
-// All rights reserved with www.mysirg.com
-// Copyright (c) 2017 Mysirg.com
+// All rights reserved with Chandan Pradhan portfolio
+// Copyright (c) 2018 ChandanPradhan
 $(function () {
     $(window).on("load resize", function () {
         $(".fill-screen").css("height", window.innerHeight);
