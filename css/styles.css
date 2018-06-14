@@ -195,6 +195,10 @@ div.progress-bar > span {
   text-align: center;
 }
 
+.skill-tech li{
+    list-style-type: none;
+}
+
 .text-banner {
   text-align: center;
   margin: 30px 20px;
