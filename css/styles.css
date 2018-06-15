@@ -199,6 +199,11 @@ div.progress-bar > span {
     list-style-type: none;
 }
 
+.columns-2 {
+    list-style-position: inside;
+    column-count: 2;
+}
+
 .text-banner {
   text-align: center;
   margin: 30px 20px;
@@ -266,7 +271,3 @@ h3 > span:hover:before, .nav a:hover:before {
   }
 }
 
-.columns-2 {
-    list-style-position: inside;
-    column-count: 2;
-}
